@@ -1,10 +1,9 @@
-_site/*
-_theme_packages/*
+# project
+_site
+.sass-cache
+.vagrant
 
-Thumbs.db
+# general
 .DS_Store
-
-!.gitkeep
-
-.rbenv-version
-.rvmrc
+Thumbs.db
+ehthumbs.db
