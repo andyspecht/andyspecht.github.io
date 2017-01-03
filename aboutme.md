@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: no subtitle
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Andy. This is in progress
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- unordered list 1 
+- unordered list 2
 
-What else do you need?
 
 ### my history
 
