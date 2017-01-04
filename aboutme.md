@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About Me
-subtitle: no subtitle
+title: Who Writes This Stuff Anyway?
+#subtitle: no subtitle
 ---
 
-My name is Andy. This is in progress
+- I'm Andy Specht.
+- I live on the Central Coast of California and work as a Systems Analyst for a local college.
+- I'm interested in all sorts of stuff, so I made this site to write about some of them. 
+- Back in the day I completed a PhD in philosophy, and if you're interested in that, you can check out my [old, no-longer updated site](https://sites.google.com/site/spechtaf81/home).
+- I like doing crosswords with my wife Adrienne.
 
-- unordered list 1 
-- unordered list 2
-
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
