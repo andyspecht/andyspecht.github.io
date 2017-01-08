@@ -2,6 +2,7 @@
 layout: post
 title: Making Random Data in SQL Server
 image: /img/randomSqlServer/SQLServerRandomData.png
+tags: [SQL Server, T-SQL, Random Data]
 ---
 
 Why would you need to make a string of random letters and numbers via SQL? You probably don't, but you might if you want to load a database with sample data for the purpose of testing queries or if you want to create a temporary password for an account, whose credentials are stored in a SQL database. Most importantly, though, it's an interesting task, because it allows us to explore some of the more uncommon functions in SQL Server. It's also a fun topic, because you don't need to be working in any particular database; we'll use SQL Server to make the data out of thin air!
