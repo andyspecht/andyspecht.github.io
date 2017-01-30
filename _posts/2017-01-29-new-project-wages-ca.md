@@ -1,7 +1,7 @@
 ---
 layout: post
 title: New Project&#58 OES Wages in California
-image: img/OESWages/databaseDiagram.png
+image: /img/OESWages/databaseDiagram.png
 tags: [Data, Salaries, SQL Server, Excel]
 ---
 
