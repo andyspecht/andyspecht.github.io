@@ -2,7 +2,7 @@
 layout: post
 title: New Project&#58 OES Wages in California
 image: /img/OESWages/databaseDiagram.png
-tags: [Data, Salaries, SQL Server, Excel]
+tags: [OES Data, Data, Salaries, SQL Server, Excel]
 ---
 
 A few months ago, I read an article in a local paper about the low(ish) wages and high cost of living in the area. This was no surprise, but I was intrigued by a data set the article cited. The California government and the Occupational Employment Statistics and Wages program has [a page with hundreds of Excel sheets](http://www.labormarketinfo.edd.ca.gov/data/oes-employment-and-wages.html) with pretty fine-grained data on wages in California broken done by region and occupation. For example, the data could provide the average salary for a DBA in San Luis Obispo for each of the last five years. I don't know anywhere else you could find this sort of information, so I decided to get the data into a more manageable form.
