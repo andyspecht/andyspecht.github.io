@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oracle Quick Tip&#58 Finding the Right Package
-image: img/findingPackage/hiddenPackage.jpg
+image: ../img/findingPackage/hiddenPackage.jpg
 tags: [SQL, Oracle, Packages]
 ---
 
