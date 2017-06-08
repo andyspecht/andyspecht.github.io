@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Long Should Software Last? 
-image: ../img/HowLongSoftware/ComputerStuff.png
+image: ../img/HowLongSoftware/computerStuff.png
 tags: [ERP, Access]
 ---
 
