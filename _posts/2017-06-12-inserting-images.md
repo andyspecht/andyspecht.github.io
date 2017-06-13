@@ -2,7 +2,7 @@
 layout: post
 title: Inserting Images and Files Into SQL Server
 image: ../img/avatar-icon.png
-tags: [SQL, SQL Server, C#, BLOBS, Images]
+tags: [SQL, SQL Server, BLOBS, Images]
 ---
 
 I'm going to write a few posts examining practices for storing files in SQL Server. This issue first appeared on my radar, when I encountered a 700GB database; 90% of that space was taken up by images and PDF's. The size of the database made running CheckDB and backups a bit of a pain, and I wondered if there were any alternatives to storing these images and PDF's directly in the database. 
