@@ -77,7 +77,9 @@ One really interesting example of this happening is with the picture-hosting com
 >JONATHAN: –and we had to, uh, bring it down to 40.
 >
 >ALEX: And so, he had this decision to make, basically. Which was, he could either put up a thing that says, “Hey, I’m shutting down Picturelife. You have 60 days to get your stuff, otherwise it will be totally deleted.” Or, he could try to save the company. So … he crunches the numbers and he says, “I think I can do this. I think I can move everything down to just 40 servers.”
+>
 >...
+>
 >ALEX: So, Jonathan furiously got to work trying to move all of these pictures. **The problem is, he had to move everything so fast that he couldn’t update the database that said where the photos lived.**
 >
 >PJ: I don’t understand.
