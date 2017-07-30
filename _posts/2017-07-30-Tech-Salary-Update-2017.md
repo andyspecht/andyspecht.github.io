@@ -127,7 +127,7 @@ Santa Maria-Santa Barbara, CA | 5.07% |
 Vallejo-Fairfield, CA | 4.83% |
 Visalia-Porterville, CA | 3.81%  |
 San Francisco-Redwood City-South San Francisco, CA | 3.48% |
-**...California Statewide...* |	**-0.14%** |
+**...California Statewide...** |	**-0.14%** |
 Fresno, CA | -1.27% |
 Santa Rosa, CA | -2.66% |
 San Rafael, CA | -3.1% |
