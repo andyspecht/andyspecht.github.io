@@ -23,7 +23,7 @@ SELECT * FROM OPENQUERY([linked server name], 'SELECT COUNT(*) FROM [user].[tabl
 
 It's not the most intuitive syntax, so [check out the official documentation here](https://docs.microsoft.com/en-us/sql/t-sql/functions/openquery-transact-sql). I've found that my queries to linked server often run faster when using OPENQUERY, so definitely try it out.
 
-###Package Up Your SQL
+### Package Up Your SQL
 
 As part of the process I was setting up, I needed to run transactions on the linked Oracle server that _only_ involved data on the linked server. This is not ideal practice, and I found that running a simple delete statement on the linked server took way too long, even with OPEQUERY. However, what sped things up dramatically was to create a procedure with the delete statement on the Oracle database and then call that procedure from the SQL Server. So on the SQL Server side you would run something like this:
 
