@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From SQL Server to Oracle#58 Linked Server Lessons
+title: From SQL Server to Oracle&#58 Linked Server Lessons
 image: ../img/linked/links.jpg
 tags: [Oracle, SQL Server, Linked Servers]
 ---
