@@ -5,7 +5,7 @@ image: ../img/NullsBlanks/nothing.jpg
 tags: [SQL, SQL Server, Oracle, Nulls]
 ---
 
-In everyone's SQL career there comes a time when you run a query and you get a bizarro result set. After some investigation, you discover that it's because of how you are using NULL in your where clause. NULL's still surprise me. I'm going to briefly touch on a bit of philosophy of what a NULL is and then give one example of where it can behave strangely in SQL.
+In everyone's SQL career there comes a time when you run a query and you get a bizarro result set. After some investigation, you discover that it's because of how you are using NULL in your where clause. NULLs still surprise me. I'm going to briefly touch on a bit of philosophy of what a NULL is and then give one example of where it can behave strangely in SQL.
 
 ### What _is_ a NULL?
 
