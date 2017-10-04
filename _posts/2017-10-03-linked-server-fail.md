@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Linked Server Fail&#58 TIMESTAMPS
+title: Linked Server Fail&#58 TIMESTAMP
 image: ../img/Timestamp/timestamp.png
 tags: [SQL, SQL Server, Oracle, TIMESTAMP, Linked Servers]
 ---
