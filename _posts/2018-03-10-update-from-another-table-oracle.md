@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Updating from another Table in Oracle
-image: ../img/mvdba/thumbsup.jpg
+image: ../img/mvdba/thumbsup.png
 tags: [Oracle, SQL]
 ---
 
