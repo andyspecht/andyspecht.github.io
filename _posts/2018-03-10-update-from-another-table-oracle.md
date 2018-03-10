@@ -43,7 +43,7 @@ SET tableA.someColumn = (SELECT tableB.otherColumn
                          FROM tableB
                          WHERE tableA.joiningColumn = tableB.joiningColumn)
 WHERE EXISTS
-		(SELECT tableB.otherColumn
+			(SELECT tableB.otherColumn
                          FROM tableB
                          WHERE tableA.joiningColumn = tableB.joiningColumn)
 ```
