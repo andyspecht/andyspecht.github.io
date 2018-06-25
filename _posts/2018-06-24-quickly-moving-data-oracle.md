@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Quickly Moving Rows Between Oracle Instances
-image: ../img/quickMove/Speed-ff-Light.jpg
+image: ../img/quickMove/SpeedOfLight.jpg
 tags: [Oracle, SQL]
 ---
 
