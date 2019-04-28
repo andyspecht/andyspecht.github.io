@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Dip into SQL History 
-image: ../img/SQLHistory/DifferenceEngine.jpg
+image: ../img/SQLHistory/DifferenceEngine.JPG
 tags: [SQL,History]
 ---
 
@@ -15,7 +15,7 @@ It is important to recognize that Codd did not invent anything resembling SQL; w
 
 Chamberlin has an interesting reflection on the intended audience for SQL. They originally intended SQL to be an intuitive language that could be used by non-experts for ad-hoc querying. Chamberlin was surprised by the growth of SQL as a programming language used to implement complex transactions. Still, it is clear from glimpses of the alternatives like Codd's Relational Algebra/Calculus that SQL was the more user-friendly option.
 
-### [The Theory Relational Databases(Maier)](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
+### [The Theory Relational Databases (Maier)](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
 
 The other resource I've found interesting is a textbook from 1983. It focuses on relational databases at a very mathematical and theoretical level, but for my purposes the last chapter on Relational Query Languages is fascinating because it was written at a time before SQL became the dominate database language. For example, it contains a discussion of a language, ISBL, that was used in one of the first relational databases (the Peterlee Relational Test Vehicle). It also discusses QUEL, the language used with the INGRES database, which is mainly remembered for leading to the PostgreSQL database system. QUEL looks something like SQL in that it uses the WHERE keyword, has a keyword like SELECT called "RETRIEVE", and has SQL-like syntax for aggregation. There is another more obscure language like SQL and QUEL, called "PIQUE" that also uses the RETRIEVE/WHERE syntax. Overall, this chapter is an interesting snapshot of a golden age of relational database development, where there was a convergence towards SQL-like syntax but there were still many viable querying languages.
 
