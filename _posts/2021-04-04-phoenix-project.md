@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First Impressions of the Phoenix Project
+title: First Impressions of The Phoenix Project
 image: ../img/Phoenix/cover.jpg
 tags: [book, project management]
 ---
