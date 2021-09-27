@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Automation and People
-image: ../img/automationpeople/tomtato.jpg
+image: ../img/automationpeople/tomato.jpg
 tags: [management, higher ed]
 ---
 For as long as I've worked in IT at a college, my focus has been on finding ways to use technology to makes things work better and to improve existing technology investments. One presupposition is that if you can automate a process or provide an easy-to-use self-service solution, that is a positive change. Automation and self-service create efficiency, reduce the burden on IT staff, and overall make the college better. Sure, sometimes employees outside of IT may feel threatened if automation changes their job, but it allows them to focus on other higher level tasks. Like the Python book says, you [Automate the Boring Stuff](https://automatetheboringstuff.com/).
