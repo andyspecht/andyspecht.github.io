@@ -1,0 +1,13 @@
+---
+layout: post
+title: Automation and People
+image: ../img/automationpeople/tomtato.jpg
+tags: [management, higher ed]
+---
+For as long as I've worked in IT at a college, my focus has been on finding ways to use technology to makes things work better and to improve existing technology investments. One presupposition is that if you can automate a process or provide an easy-to-use self-service solution, that is a positive change. Automation and self-service create efficiency, reduce the burden on IT staff, and overall make the college better. Sure, sometimes employees outside of IT may feel threatened if automation changes their job, but it allows them to focus on other higher level tasks. Like the Python book says, you [Automate the Boring Stuff](https://automatetheboringstuff.com/).
+
+I was in a meeting this week with an employee, and our discussion made me step back and think about this a bit more. This employee has worked in our department for many years and has seen automation change the nature of IT work at the college. When they started, every new employee had to contact IT and usually had to visit us in person to activate their account. Such a system seems archaic and grossly inefficient. We are busy in IT and don't have time to meet every new employee (also it's very impractical in today's partially remote world). Instead we now *empower* employees to activate their own account through a self-service page, and we only have to talk to them if there is a problem.
+
+If you had asked me, having self-service account activation seemed like an unalloyed good. However, our employee noted that this change made their job less satisfying. Previously, our IT employee had the opportunity to welcome every new staff member to the college and get to know them. Now, there is less and less personal interaction, especially as we encourage our colleagues to create tickets instead of showing up in person or even calling. By creating a more efficient system, we've reduced the amount of meaningful human interaction.
+
+What's the takeaway from this? At the very least, it's a reminder for IT leaders to really talk to their employees and know what fulfills them. Even though you have a vision and you want to make sure your team supports it, they may enjoy parts of their jobs that you might undervalue or not consider at all. But more specifically, we need to periodically take a look around in our drive to automate and find ways for IT staff to have substantial and positive interactions (not just when there's a problem) with their colleagues across the organization.
