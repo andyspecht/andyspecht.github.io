@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sending MFA to College
-image: ../img/mfacollege.mfa.jpeg
+image: ../img/mfacollege/mfa.jpeg
 tags: [security, MFA, 2FA, higher ed]
 ---
 
