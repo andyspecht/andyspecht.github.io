@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Azure Vs Amazon: The Non-Developer View
+title: Azure Vs Amazon - The Non-Developer View
 image: ../img/AzureVsAmazon/cloud.svg
 tags: [cloud, AWS, Azure, higher ed]
 ---
