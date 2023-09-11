@@ -1,0 +1,20 @@
+---
+layout: post
+title: Azure Vs Amazon: The Non-Developer View
+image: ../img/AzureVsAmazon/cloud.svg
+tags: [cloud, AWS, Azure, higher ed]
+---
+
+I wrote the post below almost two years ago. Everything still looks correct to me. The appeal of hosting applications yourself continues to decline, and vendors continue to embrace the SaaS model. Microsoft continues to be the enterprise glue holding things together and more and more of the Microsoft software we use is in Azure or is Azure-adjacent (like Defender and Intune).
+
+...
+
+Over the last couple years I've acquired some familiarity with Microsoft Azure and Amazon Web Services. At first I thought they served roughly the same purposes: they are both places where you can host some VM's. Azure has some licenses advantages if you're using Windows and AWS feels a bit more developed and professional. Over time I came to learn more about peripheral services in each. For example, there is Amazon Simple Email Service, which is a great choice if you want a cloud-based service to send notification emails. Both AWS and Azure offer an array of innovative and appealing services if you are looking to develop your own software. But I started thinking more about how these services are used by organizations that don't do much, if any, software development. I'm thinking about organizations like colleges which have an extensive on-prem network and server environment, an array of SaaS subscriptions, and are thinking about their cloud future. Where do AWS and Azure fit in?
+
+One possibility is that these organizations will want to do something like a "lift and shift" of their on-prem servers to a cloud provider. This may offer improvements when it comes to availability and disaster recovery, but in the short run it increases costs, since you could be hosting in your existing on-prem infrastructure. The costs can also arise from duplications of services on-prem and in the cloud, like firewalls and load balancers. Living both on-prem and in the cloud is also a challenge for staff who need to be comfortable with both your on-prem environment and at least one cloud provider.
+
+You might argue that over time, these on-prem data centers will shrink down to almost nothing and organizations will be running all of their servers in a cloud environment. However, one other trend that appears to be occurring is the outsourcing of any sort of hosting to SaaS providers. More and more applications that were previously hosted on-prem are being replaced by SaaS software that doesn't involve any investment in hosting. If the role of SaaS is growing at such organizations, then the importance of server hosting in general should be expected to decrease.
+
+This is where one big difference between AWS and Azure jumps out to me. The majority of organizations have a Microsoft investment in the form of Windows computers and/or Microsoft 365. If you are using Microsoft for email or license employees for Office products, you likely already have an Azure environment. If you are using Windows computers at any scale, you most likely have an office network and Windows domain controller set up to manage these computers. However, Azure presents the option of managing your Windows devices without having to stand up a special network with a domain controller. Though it is uncommon for organizations to use 100% Azure for managing Windows devices, it is becoming more viable and something that a new organization would take a close look at before building out traditional Windows infrastructure.
+
+This all suggests that in a world with organizations relying less on managing their own servers, Azure will see a larger role because of the way that it ties in (or can tie in) to managing existing services. Note that this is specifically for organizations like schools, non-profits, and small business that typically have moderate to no in-house software development. If an organization is looking to develop and provide a software, then there are many other factors that many tip the balance in other directions.
